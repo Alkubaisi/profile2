@@ -1,3 +1,46 @@
+#sidebar {
+/*  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;*/
+
+
+    background-color: #333f4d;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 120px;
+    text-align: center;
+
+}
+#sidebar li a {
+  text-decoration: none;
+    text-decoration: none;
+  color: white;
+  list-style: none;
+  font-size: 20px;
+
+
+}
+#sidebar ul {
+  text-decoration: none;
+    text-decoration: none;
+  color: white;
+  list-style: none;
+  font-size: 20px;
+  margin-top: 50px;
+  padding-left: 10px;
+
+
+}
+
+}
+#page-content {
+  margin-left: 300px;
+}
+
 body{
  background-image: url("../images/bg.jpg");
 
