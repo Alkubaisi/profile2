@@ -13,6 +13,7 @@
     bottom: 0px;
     width: 120px;
     text-align: center;
+    font-family: 'Bree Serif', serif;
 
 }
 #sidebar li a {
@@ -20,7 +21,20 @@
     text-decoration: none;
   color: white;
   list-style: none;
-  font-size: 20px;
+  font-size: 18px;
+   text-align: left;
+   margin-top: 10px
+
+
+}
+#sidebar li  {
+  text-decoration: none;
+    text-decoration: none;
+  color: white;
+  list-style: none;
+  font-size: 18px;
+   text-align: left;
+   margin-top: 10px
 
 
 }
@@ -32,10 +46,13 @@
   font-size: 20px;
   margin-top: 50px;
   padding-left: 10px;
+  text-align: left;
 
 
 }
-
+#sidebar h4 {
+  margin-top:  350px;
+}
 }
 #page-content {
   margin-left: 300px;
@@ -53,6 +70,7 @@ font-family: 'Open Sans', sans-serif;
 }
 h1 {
   font-family: 'Raleway', sans-serif;
+  color: #048ecf;
 
 }
 #logo {
